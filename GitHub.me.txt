@@ -1,0 +1,6 @@
+echo # SC2440_NANDDL >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/OpenHarbinok/SC2440_NANDDL.git
+git push -u origin master
